@@ -4,7 +4,7 @@
 
   <groupId>core</groupId>
   <artifactId>Junit</artifactId>
-  <version>1.2</version>
+  <version>${build.version}</version>
   <packaging>jar</packaging>
 
   <name>Junit</name>
